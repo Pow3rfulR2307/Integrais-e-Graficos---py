@@ -1,2 +1,2 @@
 # Integrais-e-Graficos---py
-Trabalhos do professor Frank de Alcantara envolvendo integrais e seus gráficos, com numpy, sympy e matplotlib. Mais detalhes no README.
+Trabalhos do professor Frank de Alcantara envolvendo integrais e seus gráficos. Uso da biblioteca Sympy para fazer os calculos necessários para as fórmulas, Numpy para criar sequências de números igualmente separadas para uso de plotagem dos valores nos gráficos, e matplotlib para de fato, desenhar os gráficos das funções calculadas com os módulos anteriores. Aqui se encontram alguns exemplos desses trabalhos, uns mais complexos que outros, mas todos envolvendo conceitos básicos das 3 bibliotecas.
